@@ -17,3 +17,7 @@
 *buffer
 *model
 xgboost
+
+build/
+cmake-build-debug/
+.idea/
